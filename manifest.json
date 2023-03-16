@@ -4,7 +4,8 @@
     "description": "Block Ads of Nepal Sites",
     "content_scripts": [
         {
-          "matches": ["*://*.onlinekhabar.com/*"],
+          "matches": ["*://*.onlinekhabar.com/*",
+          "*://*.setopati.com/*"],
           "run_at": "document_idle",
           "js": ["content.js"]
           
