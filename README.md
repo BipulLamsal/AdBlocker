@@ -4,10 +4,10 @@ AdBlocker for Nepali News Portals and Websites.
 ## Websites It Works 
 
 - Online Khabar
+- Setopati
 
 ## Websites It needed to be implemented
 
-- Setopati
 - My Republica
 - Nagarik News
 - Kantipur Online
