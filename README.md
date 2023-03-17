@@ -1,19 +1,17 @@
 # AdBlocker
 AdBlocker for Nepali News Portals and Websites.
 
-## Websites It Works 
+## Supported Sites 
 
-- Online Khabar
-- Setopati
+- [Online Khabar](https://www.onlinekhabar.com/)
+- [Setopati](https://www.setopati.com/)
+- [Nagarik News](https://nagariknews.nagariknetwork.com/)
+- [Kantipur Online](https://ekantipur.com/)
+- [Annapurna Post](https://www.annapurnapost.com/)
 
-## Websites It needed to be implemented
 
-- My Republica
-- Nagarik News
-- Kantipur Online
-- Himalayan Times
-- Nepali Times
-- Annapurna Post
+## To Be Added
+
 - Gorkhapatra Online
 - The Rising Nepal
 - Nepal Samacharpatra
@@ -25,6 +23,7 @@ AdBlocker for Nepali News Portals and Websites.
 - Nepal24Hours
 - Janatasamachar
 - Baahrakhari
-- Khojtalash.
+- Khojtalash
+- More
 
 *This is not an exhaustive list. There are also other news portal or websites*
