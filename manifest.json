@@ -22,7 +22,7 @@
         }
       ],
 
-    "permissions": ["webRequest","activeTab","tabs"],
+    "permissions": ["webRequest","activeTab","tabs","manifest"],
     
 
     "icons": {

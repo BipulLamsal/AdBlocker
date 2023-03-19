@@ -18,3 +18,10 @@ for (let i = 0; i < hide.length; i++) {
     hide[i].remove();
     hide[i].style.display = 'none';
 }
+
+
+
+chrome.tabs.query({active: true, currentWindow: true}, tabs => {
+    let url = tabs[0].url;
+    
+});
