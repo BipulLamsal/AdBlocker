@@ -1,6 +1,16 @@
 # AdBlocker
 AdBlocker for Nepali News Portals and Websites.
 
+## Installation Guide :
+
+1. Download this repo as a [ZIP File from Github](https://github.com/BipulLamsal/AdBlocker/archive/refs/heads/main.zip)
+2. Unzip the file and you should have a folder named  > - AdBlocker-main.
+3. In Chrome/Edge go to the extensions page (chrome://extensions or edge://extensions). Enable Developer Mode.
+4. Drag the > - AdBlocker-main folder anywhere on the page to import it (do not delete the folder afterwards).
+5. Voila, Browser Ad free.
+
+
+
 ## Supported Sites 
 
 - [Online Khabar](https://www.onlinekhabar.com/)

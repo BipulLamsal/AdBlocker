@@ -10,6 +10,7 @@ const hide = document.querySelectorAll(allClassName.map(className => '.' + class
 if (document.getElementById('roadblock-ad'))
 {
     document.getElementById('roadblock-ad').style.display = 'none';
+    
 }
 
 
